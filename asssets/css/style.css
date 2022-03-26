@@ -127,7 +127,7 @@ display: block;
 
 }
 .header .search-btn:hover {
-    background-color: #f44336;
+    background-color: #ccc;
     cursor: pointer;
 }
 /* End Css Header */
